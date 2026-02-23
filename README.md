@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 
 This project implements a galaxy merger pair detection pipeline using JWST photometric catalogs.
 It includes:
